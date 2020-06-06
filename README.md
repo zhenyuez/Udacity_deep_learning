@@ -1,6 +1,4 @@
-# Udacity_deep_learning
-
-#### Machine Learning Engineer Nano degree Capstone Project
+## Machine Learning Engineer Nano degree Capstone Project
 ## Dog breed classifier with RESNET50 
 #### by Zhenyue Zhu
 
