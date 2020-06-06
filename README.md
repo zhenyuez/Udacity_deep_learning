@@ -34,12 +34,11 @@ separate folder. The dataset is kind of unbalanced, some breeds have
 more images than others. Also, these images have different sizes. 
  
 
-## Summary of Findings
+## Results of the model
 
-* More trips are with subcribers than customers.
-* For week days, there are more trips than weekends.
+For this project, I finally decided to use restnet50 model for transfering learning purpose. 
+Where I set the calculation to train the model only on the last layer, after 10 epochs, 
+the accuracy of the model is already more than 80%, which is much, much better than the CNN model that I 
+built from scratch (accuracy = 12%). 
 
 
-## Key Insights for Presentation
-* Median duration secs is only around 540 secs on week day, while on weekend, the median duration will be 640 seconds.
-rend for weekend and week day is not obvious than other two cities.
