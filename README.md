@@ -1,6 +1,7 @@
 ## Machine Learning Engineer Nano degree Capstone Project
 ## Dog breed classifier with RESNET50 
 #### by Zhenyue Zhu
+#### 06/05/2020
 
 ### Objective
 When a user uploads an image to the web server. The machine learning model will act on the backend. 
